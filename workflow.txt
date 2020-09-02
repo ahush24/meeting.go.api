@@ -1,0 +1,19 @@
+workflow:-
+key point to remember:- 
+*Make use of only golang lib.
+*Stackoverflow- GOD_Level_Resource
+*Postman to make any request
+
+Day1 TASK:-(create basic app with routing application)
+-learn go lang basics and basic level web development
+-Create seprate webpages for some request;
+-Decide how to send http requests;
+-make check for http request(post/get);
+
+Day2 TASK:-(connect API to mongodb server)
+-setup db server;
+-how to send queries and retrieve them using mongodb;
+-After sending all req request go for Mongodb queries;
+
+Tasks left:
+/* Recieve Unique Index(key) Queries */
